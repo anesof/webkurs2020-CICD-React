@@ -1,4 +1,4 @@
-# Velkommen til CICD Kurs med Norkart!
+# CICD Kurs med Norkart
 
 Målet med dette kurset er å vise hvordan du kan raskt få en kart-webapplikasjon til å kjøre live. Ved å få appen raskt ut i produksjon og ved å videreutvikle den med 'Continuous Integration' og 'Continuous Delivery' (CICD) prinsippet, kan nye features og bug-fixes effektivt og kontinuerlig integreres i appen din. Her får du en enkel mal på en React applikasjon med et mapbox kart. Denne skal du deploye til github pages slik at dere lett kan vise andre det kule dere lager.
 
